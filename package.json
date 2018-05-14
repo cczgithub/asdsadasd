@@ -3,9 +3,9 @@
   "name": "blruple",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", "blurple.py", "config.py",
+  "main": "blurple.py",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node blurple.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",

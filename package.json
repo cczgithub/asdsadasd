@@ -3,7 +3,7 @@
   "name": "blruple",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", "blurple.py", "config.py"
+  "main": "bot.js", "blurple.py", "config.py",
   "scripts": {
     "start": "node bot.js"
   },
